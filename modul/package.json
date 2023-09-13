@@ -1,0 +1,16 @@
+{
+  "name": "modul",
+  "version": "1.0.0",
+  "description": " express tut by modul",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "modul",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "mongoos": "^0.0.1-security",
+    "nodemon": "^3.0.1"
+  }
+}
